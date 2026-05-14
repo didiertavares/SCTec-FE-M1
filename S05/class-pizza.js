@@ -2,6 +2,8 @@ const input = input('prompt-sync')
 
 let borda
 
+let preco
+
 calcularPreco(tamanho, borda) {
    if(tamanho==P) {
         console.log('o preço é R$ 25')
